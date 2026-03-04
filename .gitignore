@@ -1,0 +1,26 @@
+# Python 缓存与编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / PyCharm 等 IDE
+.vscode/
+.idea/
+
+# 日志与临时输出
+logs/
+results/
+*.log
+
+# 数据与中间文件（按需保留）
+data_raw/
+datasets/
+

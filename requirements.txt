@@ -1,0 +1,11 @@
+torch>=2.0
+numpy
+scipy
+matplotlib
+scikit-learn
+tqdm
+
+# 如果你在脚本中用到了额外库（例如 pandas、seaborn 等），
+# 可以按需在这里补充：
+# pandas
+
